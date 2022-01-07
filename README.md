@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
-https://giphy.com/gifs/lifetimetv-mafs-married-at-first-sight-lifetime-lEADCfIrDg5fMyb3ca
+<img src = "https://giphy.com/gifs/lifetimetv-mafs-married-at-first-sight-lifetime-lEADCfIrDg5fMyb3ca">
 
 
 <!---
